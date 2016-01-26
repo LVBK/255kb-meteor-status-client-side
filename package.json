@@ -1,6 +1,6 @@
 {
   "name": "255kb-meteor-status-client-side",
-  "version": "1.0.0",
+  "version": "1.1.2",
   "description": "Use 255kb-meteor-status package with[meteor-client-side",
   "main": "dist/255kb-meteor-status-client-side.bundle.js",
   "scripts": {
@@ -24,5 +24,8 @@
     "255kb",
     "client",
     "side"
-  ]
+  ],
+  "dependencies" :{
+    "ows-meteor-client-side": "^1.0.0"
+  }
 }
