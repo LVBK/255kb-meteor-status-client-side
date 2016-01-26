@@ -15,7 +15,7 @@
     "client",
     "side"
   ],
-  "main": "./dist/255kb-meteor-statusclient-side.bundle.min.js",
+  "main": "./dist/255kb-meteor-status-client-side.bundle.min.js",
   "license": "MIT",
   "homepage": "https://github.com/LVBK/255kb-meteor-status-client-side",
   "ignore": [
