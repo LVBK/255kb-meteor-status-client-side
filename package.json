@@ -1,0 +1,28 @@
+{
+  "name": "255kb-meteor-status-client-side",
+  "version": "1.0.0",
+  "description": "Use 255kb-meteor-status package with[meteor-client-side",
+  "main": "dist/255kb-meteor-status-client-side.bundle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LVBK/255kb-meteor-status-client-side.git"
+  },
+  "authors": [
+    "LVBK <khanhlvb@ows.vn>"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LVBK/255kb-meteor-status-client-side/issues"
+  },
+  "homepage": "https://github.com/LVBK/255kb-meteor-status-client-side#readme",
+  "keywords": [
+    "meteor",
+    "status",
+    "255kb",
+    "client",
+    "side"
+  ]
+}

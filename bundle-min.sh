@@ -38,8 +38,6 @@ rm -rf $OUTPUT_PATH
 mkdir $OUTPUT_PATH
 
 # Concat files
-cat "$PACKAGES_PATH/jquery.js" >> $OUTPUT_PATH/$NAME.bundle.js
-cat "$PACKAGES_PATH/blaze.js" >> $OUTPUT_PATH/$NAME.bundle.js
 cat "$PACKAGES_PATH/templating.js" >> $OUTPUT_PATH/$NAME.bundle.js
 cat "$PACKAGES_PATH/255kb_meteor-status.js" >> $OUTPUT_PATH/$NAME.bundle.js
 cat "$PACKAGES_PATH/global-imports.js" >> $OUTPUT_PATH/$NAME.bundle.js
