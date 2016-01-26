@@ -4,8 +4,7 @@
     "LVBK <khanhlvb@ows.vn>"
   ],
   "dependencies": {
-    "meteor-client-side": "~0.2.3",
-    "accounts-base-client-side": "~0.1.1"
+    "ows-meteor-client-side": "~1.0.0"
   },
   "description": "Use 255kb-meteor-status package with[meteor-client-side",
   "keywords": [
